@@ -42,7 +42,7 @@ a:link{
 #YoutubeTitle{
     position:absolute;
     height: 100px;
-    width: 45%;
+    width: 60%;
 
     display: flex;
     flex-shrink: 0;

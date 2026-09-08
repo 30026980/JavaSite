@@ -1,5 +1,5 @@
         // Use a CORS proxy if the target RSS server blocks direct client-side requests
-        const RSS_URL = 'https://steamcommunity.com/games/SteamWorkshop/rss';
+        const RSS_URL = 'https://thisweekinvideogames.com/feed/';
 
         async function loadRSS() {
             const container = document.getElementById('Content');
