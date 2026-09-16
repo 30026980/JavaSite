@@ -1,4 +1,17 @@
-        // Use a CORS proxy if the target RSS server blocks direct client-side requests
+/*
+Type = JavaScript
+Author = 30026980
+Email = 30026980's email
+
+What does this Script Do:
+This script is for grabbing the rss Feed of a Website (in this Case it is SkillUp's This Week In Video Games)
+Once We have got it, we will paste that rss Feed into the HtmlOutput Container
+
+V1.0 Created for Site
+V1.1 Added more Documentation
+*/
+
+// Use a CORS proxy if the target RSS server blocks direct client-side requests
         const RSS_URL = 'https://thisweekinvideogames.com/feed/';
 
         async function loadRSS() {
