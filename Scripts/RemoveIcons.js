@@ -1,3 +1,17 @@
+/*
+Type = JavaScript
+Author = 30026980
+Email = 30026980's email
+
+What does this Script Do:
+When the Remove Buttons id = RemoveButton is clicked, all of the soical media icons that have the class ".LinkButtons" will be toggle
+The Icons will toggle between 
+   1. if they are currently onscreen, they will move one after another offscreen by Gaining the MoveUp Class (ORIGNALY WAS GOING TO BE 2 Classes till we found out we only needed one)
+   2. if they are currently OffScreen, They will loss the MoveUp class One by One to move back On Screen
+*/
+
+
+
 //Sets a Set Amount of time that the site will wait between each action
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
