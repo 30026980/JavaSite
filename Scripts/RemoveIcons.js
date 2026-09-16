@@ -8,6 +8,11 @@ When the Remove Buttons id = RemoveButton is clicked, all of the soical media ic
 The Icons will toggle between 
    1. if they are currently onscreen, they will move one after another offscreen by Gaining the MoveUp Class (ORIGNALY WAS GOING TO BE 2 Classes till we found out we only needed one)
    2. if they are currently OffScreen, They will loss the MoveUp class One by One to move back On Screen
+
+V1.0 Created and Added Document
+V1.1 Bugged Fixed icons not moving
+V1.2 Added more Documents
+V1.3 Fix those Dam Documents
 */
 
 
